@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1652401359 source:c:\users\dimitar\desktop\oop_project1\dimitarangelovproj1tema1\main.cpp
+	"ComReader.h"
+
+1652445881 c:\users\dimitar\desktop\oop_project1\dimitarangelovproj1tema1\comreader.h
+	"Reports.h"
+
+1652446005 c:\users\dimitar\desktop\oop_project1\dimitarangelovproj1tema1\reports.h
+	"Users.h"
+
+1652446005 c:\users\dimitar\desktop\oop_project1\dimitarangelovproj1tema1\users.h
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+
+1652445881 source:c:\users\dimitar\desktop\oop_project1\dimitarangelovproj1tema1\comreader.cpp
+	"ComReader.h"
+
+1652445415 source:c:\users\dimitar\desktop\oop_project1\dimitarangelovproj1tema1\reports.cpp
+	"Reports.h"
+
+1652444144 source:c:\users\dimitar\desktop\oop_project1\dimitarangelovproj1tema1\users.cpp
+	"Users.h"
+
